@@ -16,25 +16,25 @@ body
     border-radius: 20px;
     text-align: center;
 }
-img
+.Imagem
 {
     width: 90%;
     margin-top: 20px;
     border-radius: 20px;
 }
-article
+.Texto
 {
 margin-top: 10px;
 padding: 30px;
 }
-h1
+.Titulo
 {
     font-size: 25px;
     font-family: Arial, Helvetica, sans-serif;
     margin: auto;
     margin-bottom: 30px;
 }
-p
+.Paragrafo
 {
     color: hsl(220, 15%, 55%);
     font-size: 17px;
